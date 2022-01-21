@@ -1,6 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: "Tiffany Bouchard",
+    siteURL: "localhost:8000",
     description:
       "",
   },
