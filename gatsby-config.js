@@ -1,9 +1,8 @@
 module.exports = {
   siteMetadata: {
     title: "Tiffany Bouchard",
-    siteURL: "localhost:8000",
     description:
-      "",
+      "description",
   },
   plugins: [
     "gatsby-plugin-react-helmet",
