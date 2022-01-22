@@ -47,10 +47,8 @@ const TemplateWrapper = ({ children, location }) => {
           content={`${withPrefix("/")}img/favicon.png`}
         />
       </Helmet>
-      {/* FIX THIS */}
-      {window.location.pathname !== "/" ? <Link className="back" to="/">←</Link> : null}
       <Navbar />
-      <div>{children}</div>
+      <div class="section">{children}</div>
     </div>
   );
 };

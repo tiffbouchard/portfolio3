@@ -21,82 +21,64 @@
     font-size: 14px
 
 a 
-    color: blue
+    color: black
 
 .layout 
     margin: 0px auto
-    padding: 50px 60px
+    padding: 60px 50px
+    display: flex
+    justify-content: space-around
     max-width: 1200px
 
 .section 
-    margin: 50px 0
+    width: 100%
 
 p
     margin: 0
 
 nav 
     display: flex
-    justify-content: space-between
-    align-items: flex-end
+    flex-direction: column
+    margin-right: 50px
+    width: 20%
 
 .navbar ul 
     list-style: none
     margin: 0
     padding: 0
-    text-align: right
 
 
-
-
-
-
-.grid 
+.grid
     display: grid
-    grid-template-columns: repeat(autofill, minmax(1fr))
-    gap: 10px
-
-
-
-.card 
-    display: flex
-    flex-direction: column
-    text-align: center
-
-.card img
-    padding-bottom: 10px
-
-
-.card:nth-child(1) 
-    align-self: flex-end
-    grid-column-start: 2
-    justify-self: end
-
-.card:nth-child(2) 
-    align-self: flex-end
-    grid-column-start: 1
-    justify-self: end
-
-.card:nth-child(3) 
-    align-self: flex-start
-    grid-column-start: 2
-    grid-row-start: 3
-
-
-.card:nth-child(4) 
-    align-self: flex-start
-    grid-column-start: 3
-    grid-row-start: 2
-
-
-
+    grid-template-columns: 1fr 1fr
+    grid-gap: 60px
+    justify-content: center
 
 
 .card 
     transition: all .2s ease-in-out
+    text-align: center
+
 
 .card:hover
-    transform: scale(1.1)
+    transform: scale(1.05)
+    z-index: 10
 
+.card img
+    padding-bottom: 10px
+    max-height: 400px
+
+
+
+@media only screen and (max-width: 900px) 
+    .grid 
+        display: flex
+        flex-direction: column
+    .layout
+        flex-direction: column
+    nav
+        width: 100%
+        margin-bottom: 50px
 
 
 .posts
@@ -111,6 +93,7 @@ nav
 
 .back 
     position: absolute
-    top: 20px
-    left: 20px
-    font-size: 16px
+    top: 0px
+    left: 0px
+    font-size: 70px
+    line-height: 100px

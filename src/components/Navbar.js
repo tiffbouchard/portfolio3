@@ -19,30 +19,36 @@ const Navbar = class extends React.Component {
         role="navigation"
         aria-label="main-navigation"
       >
-        <div>
-          <p>
-            Tiffany Bouchard
-          </p>
-        </div>
-        <div>
-          <ul>
-            <li>
-              <Link className="navbar-item" to="/about">
-                Info
-              </Link>
-            </li>
-            <li>
-              <Link className="navbar-item" to="/blog">
-                Writing
-              </Link>
-            </li>
-            <li>
-              <a className="navbar-item" href="mailto:tiffnbouchard@gmail.com">
-                Contact
-              </a>
-            </li>
-          </ul>
-        </div>
+          <div>
+            <p>
+              Tiffany Bouchard
+            </p>
+            <br/>
+          </div>
+          <div>
+            <ul>
+              <li>
+                <Link className="navbar-item" to="/">
+                  Projects
+                </Link>
+              </li>
+              <li>
+                <Link className="navbar-item" to="/about">
+                  Info
+                </Link>
+              </li>
+              <li>
+                <Link className="navbar-item" to="/blog">
+                  Writing
+                </Link>
+              </li>
+              <li>
+                <a className="navbar-item" href="mailto:tiffnbouchard@gmail.com">
+                  Contact
+                </a>
+              </li>
+            </ul>
+          </div>
       </nav>
     );
   }

@@ -9,7 +9,6 @@ class ProjectsTemplate extends React.Component {
     const { edges: posts } = data.allMarkdownRemark
 
     return (
-      <div className="section">
         <div className="grid">
           {posts &&
             posts.map(({ node: post }) => (
@@ -32,7 +31,6 @@ class ProjectsTemplate extends React.Component {
               </div>
             ))}
         </div>
-      </div>
     )
   }
 }
