@@ -22,6 +22,9 @@
 
 a 
     color: black
+ 
+h1 
+    margin-top: 0
 
 .layout 
     margin: 0px auto
@@ -46,14 +49,6 @@ nav
     list-style: none
     margin: 0
     padding: 0
-
-
-.grid
-    display: grid
-    grid-template-columns: 1fr 1fr
-    grid-gap: 60px
-    justify-content: center
-
 
 .card 
     transition: all .2s ease-in-out
@@ -97,3 +92,20 @@ nav
     left: 0px
     font-size: 70px
     line-height: 100px
+
+
+.my-masonry-grid 
+  display: -webkit-box
+  display: -ms-flexbox
+  display: flex
+  margin-left: -100px
+  width: auto
+
+.my-masonry-grid_column
+  padding-left: 90px
+  background-clip: padding-box
+
+
+.my-masonry-grid_column > div 
+  margin-bottom: 150px
+

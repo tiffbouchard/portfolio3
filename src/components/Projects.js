@@ -2,34 +2,45 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import { Link, graphql, StaticQuery } from 'gatsby'
 import PreviewCompatibleImage from './PreviewCompatibleImage'
+import Masonry from 'react-masonry-css'
 
 class ProjectsTemplate extends React.Component {
   render() {
     const { data } = this.props
     const { edges: posts } = data.allMarkdownRemark
 
+    const breakpointColumnsObj = {
+      default: 2,
+      700: 1
+    };
+
     return (
         <div className="grid">
-          {posts &&
-            posts.map(({ node: post }) => (
-              <div key={post.id} className='card'>
-                <Link
-                  to={post.fields.slug}
-                >
-                {post.frontmatter.featuredimage ? (
-                      <PreviewCompatibleImage
-                        imageInfo={{
-                          image: post.frontmatter.featuredimage,
-                          alt: `featured image thumbnail for post ${post.frontmatter.title}`
-                        }}
-                      />
-                  ) : null}
-                  <p>
-                      {post.frontmatter.title}
-                  </p>
-                </Link>
-              </div>
-            ))}
+                <Masonry
+                  breakpointCols={breakpointColumnsObj}
+                  className="my-masonry-grid"
+                  columnClassName="my-masonry-grid_column">
+                    {posts &&
+                      posts.map(({ node: post }) => (
+                        <div key={post.id} className='card'>
+                          <Link
+                            to={post.fields.slug}
+                          >
+                    {post.frontmatter.featuredimage ? (
+                          <PreviewCompatibleImage
+                            imageInfo={{
+                              image: post.frontmatter.featuredimage,
+                              alt: `featured image thumbnail for post ${post.frontmatter.title}`
+                            }}
+                          />
+                          ) : null}
+                        <p>
+                            {post.frontmatter.title}
+                        </p>
+                      </Link>
+                    </div>
+                  ))}
+                </Masonry>
         </div>
     )
   }

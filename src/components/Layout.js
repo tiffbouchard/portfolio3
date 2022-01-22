@@ -3,7 +3,7 @@ import { Helmet } from "react-helmet";
 import Navbar from "../components/Navbar";
 import "./all.sass";
 import useSiteMetadata from "./SiteMetadata";
-import { withPrefix, Link } from "gatsby";
+import { withPrefix } from "gatsby";
 
 const TemplateWrapper = ({ children, location }) => {
   const { title, description } = useSiteMetadata();
