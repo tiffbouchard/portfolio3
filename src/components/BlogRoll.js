@@ -12,17 +12,14 @@ class BlogRollTemplate extends React.Component {
         {posts &&
           posts.map(({ node: post }) => (
             <div key={post.id}>
-              <article>
-                <header>
-                  <p className="posts">
-                    <Link
-                      to={post.fields.slug}
-                    >
-                      {post.frontmatter.title}
-                    </Link>
-                  </p>
-                </header>
-              </article>
+                <p className="posts">
+                  <Link
+                    to={post.fields.slug}
+                  >
+                    {post.frontmatter.title}
+                  </Link>
+                  <span>{post.frontmatter.date}</span>
+                </p>
             </div>
           ))}
       </div>
@@ -58,18 +55,8 @@ export default function BlogRoll() {
                 frontmatter {
                   title
                   templateKey
-                  date(formatString: "MMMM DD, YYYY")
+                  date(formatString: "MM.DD.YY")
                   featuredpost
-                  featuredimage {
-                    childImageSharp {
-                      gatsbyImageData(
-                        width: 120
-                        quality: 100
-                        layout: CONSTRAINED
-                      )
-
-                    }
-                  }
                 }
               }
             }

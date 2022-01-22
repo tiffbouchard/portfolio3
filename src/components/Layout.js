@@ -44,13 +44,13 @@ const TemplateWrapper = ({ children, location }) => {
         <meta property="og:url" content="/" />
         <meta
           property="og:image"
-          content={`${withPrefix("/")}img/og-image.jpg`}
+          content={`${withPrefix("/")}img/favicon.png`}
         />
       </Helmet>
+      {/* FIX THIS */}
       {window.location.pathname !== "/" ? <Link className="back" to="/">←</Link> : null}
       <Navbar />
       <div>{children}</div>
-      {/* <Footer /> */}
     </div>
   );
 };

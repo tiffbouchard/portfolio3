@@ -45,10 +45,16 @@ nav
     padding: 0
     text-align: right
 
+
+
+
+
+
 .grid 
     display: grid
-    grid-template-columns: 1fr 1fr
-    gap: 50px
+    grid-template-columns: repeat(autofill, minmax(1fr))
+    gap: 10px
+
 
 
 .card 
@@ -56,19 +62,33 @@ nav
     flex-direction: column
     text-align: center
 
-.card:nth-child(2) 
+.card img
+    padding-bottom: 10px
+
+
+.card:nth-child(1) 
     align-self: flex-end
     grid-column-start: 2
     justify-self: end
 
+.card:nth-child(2) 
+    align-self: flex-end
+    grid-column-start: 1
+    justify-self: end
+
 .card:nth-child(3) 
     align-self: flex-start
-    grid-column-start: 3
+    grid-column-start: 2
+    grid-row-start: 3
 
-.posts
-    display: flex
-    display: 100%
-    justify-content: space-between
+
+.card:nth-child(4) 
+    align-self: flex-start
+    grid-column-start: 3
+    grid-row-start: 2
+
+
+
 
 
 .card 
@@ -76,6 +96,14 @@ nav
 
 .card:hover
     transform: scale(1.1)
+
+
+
+.posts
+    display: flex
+    display: 100%
+    justify-content: space-between
+
 
 .taglist 
     list-style: disc
