@@ -6,7 +6,7 @@ I’m a developer and creative based in Toronto passionate about seeing ideas co
 
 <br/>
 
-I'm currently working with React/Gatsby, Angular and Blender 
+I'm currently working with React/Gatsby, Angular, and Blender 
 
 <br/>
 
