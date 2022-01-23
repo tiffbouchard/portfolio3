@@ -2,7 +2,7 @@
 templateKey: about-page
 path: /about
 ---
-I’m a developer and creative based in Toronto passionate about bringing ideas to life
+I’m a developer and creative based in Toronto passionate about seeing ideas come to life
 
 <br/>
 
