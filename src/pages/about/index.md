@@ -6,13 +6,13 @@ I’m a developer and creative based in Toronto passionate about seeing ideas co
 
 <br/>
 
-I'm currently working with React/Gatsby, Angular, and Blender 
+Currently working with React/Gatsby, Angular, and Blender 
 
 <br/>
 
 [Are.na](Http://are.na/tiffany-bouchard)
 [Tumblr](http://cakebagel.tumblr.com)
-[Goodreads](https://goodreads.com/user/show/135943497-tiffany-bouchard) [](HTTPS://linkedin.com/in/tiffanybouchard)
+[Goodreads](https://goodreads.com/user/show/135943497-tiffany-bouchard)[](HTTPS://linkedin.com/in/tiffanybouchard)
 [Instagram](Http://Instagram.com/tiffbouchard)
 [GitHub](HTTPS://github.com/tiffbouchard)
 [Linkedin](HTTPS://linkedin.com/in/tiffanybouchard)
