@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: angular ng-template and ng-content
+title: "angular: ng-template and ng-content"
 date: 2022-01-24T21:43:24.960Z
 featuredpost: true
 ---
