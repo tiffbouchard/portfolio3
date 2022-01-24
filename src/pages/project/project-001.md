@@ -2,8 +2,8 @@
 templateKey: project-post
 title: project 001
 date: 2022-01-21T16:17:41.421Z
-description: explore your music taste and find something new
+description: ""
 featuredpost: true
-featuredimage: /img/grenadepreview-1030x762.jpeg
+featuredimage: /img/safari-1280x720.png
 ---
-explore your music taste and find something new
+find something new to listen to
