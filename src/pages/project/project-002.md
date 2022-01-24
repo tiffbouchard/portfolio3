@@ -9,3 +9,9 @@ featuredimage: /img/wireframe.png
 rice | a barebones component library for react
 
 [live](http://makerice.io) | [source](http://github.com/tiffbouchard/rice)
+
+* react
+* storybook
+* rollup
+* storybook
+* npm
