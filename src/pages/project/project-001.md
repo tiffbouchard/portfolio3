@@ -9,3 +9,7 @@ featuredimage: /img/safari-1280x720.png
 find something new to listen to
 
 [live](http://artist-explorer.herokuapp.com) | [source](http://github.com/tiffbouchard/artist-explorer)
+
+* react
+* heroku
+* spotify api
