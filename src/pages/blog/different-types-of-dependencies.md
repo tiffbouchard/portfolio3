@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Different types of dependencies
+title: "npm: types of dependencies"
 date: 2022-01-24T00:46:36.962Z
 featuredpost: true
 tags:
