@@ -3,6 +3,9 @@ templateKey: blog-post
 title: commonjs, es modules, amd and umd
 date: 2022-01-24T01:40:25.876Z
 featuredpost: true
+tags:
+  - notes
+  - tech
 ---
 Different ways to import and export modules
 
