@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Resources
+title: resources ✺ ☄ * ⋆
 date: 2022-01-23T21:55:16.817Z
 featuredpost: true
 ---
