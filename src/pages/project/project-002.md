@@ -2,12 +2,10 @@
 templateKey: project-post
 title: rice
 date: 2022-01-24T02:10:25.258Z
-description: ""
+description: a barebones component library for react
 featuredpost: true
 featuredimage: /img/wireframe.png
 ---
-a barebones component library for react
-
 [live](http://makerice.io) | [source](http://github.com/tiffbouchard/rice)
 
 * react
