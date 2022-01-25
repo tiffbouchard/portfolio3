@@ -12,8 +12,8 @@ Currently working with React/Gatsby, Angular, and Blender
 
 [Are.na](Http://are.na/tiffany-bouchard)
 [Tumblr](http://cakebagel.tumblr.com)
-[Goodreads](https://goodreads.com/user/show/135943497-tiffany-bouchard)[](HTTPS://linkedin.com/in/tiffanybouchard)
+[Goodreads](https://goodreads.com/user/show/135943497-tiffany-bouchard) [Letterboxd](https://letterboxd.com/tiffbouchard)[](HTTPS://letterboxd.com/tiffbouchard)
 [Instagram](Http://Instagram.com/tiffbouchard)
 [GitHub](HTTPS://github.com/tiffbouchard)
-[Linkedin](HTTPS://linkedin.com/in/tiffanybouchard)
+[Linkedin](HTTPS://linkedin.com/in/tiffanybouchard)[](HTTPS://linkedin.com/in/tiffanybouchard)
 [CV](https://indd.adobe.com/view/2ac36af3-2482-4c04-b99a-5622bebffd5a)
