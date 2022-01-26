@@ -5,7 +5,7 @@ date: 2022-01-25T17:32:22.030Z
 description: ""
 featuredpost: true
 ---
-VSCode (windows)
+[VSCode (windows)](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 
 * Ctrl+D - multiple carets to select and edit more than one line
 * Ctrl+Shift+P - command pallette 
