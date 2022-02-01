@@ -16,4 +16,4 @@ Currently working with React, Angular, and Blender. Interested in open source, A
 [Instagram](Http://Instagram.com/tiffbouchard)
 [GitHub](HTTPS://github.com/tiffbouchard)
 [Linkedin](HTTPS://linkedin.com/in/tiffanybouchard)[](HTTPS://linkedin.com/in/tiffanybouchard)
-[CV](https://indd.adobe.com/view/2ac36af3-2482-4c04-b99a-5622bebffd5a)
+[CV](https://drive.google.com/file/d/1NQRMw9t1lKef9hK86MgaM6FerFGTvT5n/view?usp=sharing)
