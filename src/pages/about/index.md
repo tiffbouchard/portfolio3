@@ -6,7 +6,7 @@ I’m a developer and creative based in Toronto passionate about seeing ideas co
 
 <br/>
 
-Currently working with React, Angular, and Blender. Interested in open source, AR, AI, Unity, and creative coding (p5.js and three.js)
+Currently working with React, Angular, and Blender. Interested in open source, AR, AI, Unity, and creative coding
 
 <br/>
 
