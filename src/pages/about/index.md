@@ -2,11 +2,11 @@
 templateKey: about-page
 path: /about
 ---
-I’m a developer and creative based in Toronto passionate about seeing ideas come to life
+I’m a developer and creative based in Toronto passionate about seeing ideas come to life.
 
 <br/>
 
-Currently working with React, Angular, and Blender. Interested in open source, AR, AI, Unity, and creative coding
+Currently working with React, Angular, and Blender. Interested in open source, AR, AI, Unity, and creative coding.
 
 <br/>
 
