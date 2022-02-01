@@ -18,4 +18,6 @@ Currently working with React/Gatsby, Angular, and Blender
 [Linkedin](HTTPS://linkedin.com/in/tiffanybouchard)[](HTTPS://linkedin.com/in/tiffanybouchard)
 [CV](https://indd.adobe.com/view/2ac36af3-2482-4c04-b99a-5622bebffd5a)
 
+<br/>
+
 <iframe src="https://open.spotify.com/embed/playlist/0JGO3dNg40nYXNtM4BTq9C?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
