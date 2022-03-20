@@ -11,7 +11,7 @@ Currently working with React, Angular, and Blender. Interested in open source, A
 <br/>
 
 [Are.na](Http://are.na/tiffany-bouchard)
-[Tumblr](http://cakebagel.tumblr.com) [Spotify](https://open.spotify.com/playlist/0JGO3dNg40nYXNtM4BTq9C?si=04d7c6b7224145f9)
+[Tumblr](http://cakebagel.tumblr.com) [Spotify](https://open.spotify.com/user/12161193944)
 [Goodreads](https://goodreads.com/user/show/135943497-tiffany-bouchard) [Letterboxd](https://letterboxd.com/tiffbouchard)[](HTTPS://letterboxd.com/tiffbouchard)
 [Instagram](Http://Instagram.com/tiffbouchard)
 [GitHub](HTTPS://github.com/tiffbouchard)
