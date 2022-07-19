@@ -53,7 +53,7 @@ const Temp = () => {
         <br/>
         <p>Working with React, Angular and Blender. Interested in exploring VR, Unity, and creative coding.</p>
         <br/>
-        <p>Full portfolio is WIP</p>
+        <p>Full portfolio is a WIP.</p>
         <br/>
         <a href="https://www.are.na/tiffany-bouchard" target="_blank">Are.na</a> <a href="https://cakebagel.tumblr.com/" target="_blank">Tumblr</a> <a href="https://www.goodreads.com/user/show/135943497-tiffany-bouchard" target="_blank">Goodreads</a> <a href="https://letterboxd.com/tiffbouchard/" target="_blank">Letterboxd</a> <a href="https://instagram.com/tiffbouchard" target="_blank">Instagram</a> <a href="https://github.com/tiffbouchard" target="_blank">Github</a> <a href="https://drive.google.com/file/d/1NQRMw9t1lKef9hK86MgaM6FerFGTvT5n/view" target="_blank">CV</a>
       </div>

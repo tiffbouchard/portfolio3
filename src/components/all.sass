@@ -19,13 +19,24 @@
     font-family: 'Monument Grotesk Mono Thin'
     box-sizing: border-box
     font-size: 16px
+    cursor: none
 
 .temp-con 
     max-width: 600px
 
 a 
     color: blue
- 
+    text-underline-offset: .5rem
+    line-height: 0px 50px
+
+
+a:hover 
+    text-decoration: none
+    text-decoration: underline solid transparent
+    transition: text-decoration .3s ease-in
+
+
+
 h1 
     margin-top: 0
     font-family: 'Monument Grotesk Mono Thin'
@@ -37,6 +48,7 @@ h1
     display: flex
     justify-content: space-around
     max-width: 1200px
+    transition: padding .5s ease-in
 
 .section 
     width: 100%
@@ -56,7 +68,7 @@ nav
     padding: 0
 
 .card 
-    transition: all .2s ease-in-out
+    transition: all .5s ease-in-out
     text-align: center
 
 
@@ -77,6 +89,7 @@ nav
     .layout
         flex-direction: column
         padding: 25px 30px
+        transition: padding 2s ease-in
     nav
         width: 100%
         margin-bottom: 50px
