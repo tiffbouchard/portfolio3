@@ -49,13 +49,13 @@ const Temp = () => {
       <div class="temp-con">
         <p>Tiffany Bouchard</p>
         <br/>
-        <p>I’m a developer based in Toronto passionate about building design conscious products.</p>     
+        <p>I’m a developer based in Toronto passionate about building design conscious digital experiences.</p>     
         <br/>
-        <p>Working with React, Angular and Blender. Interested in exploring VR, Unity, and creative coding.</p>
+        <p>Specializing in UX/UI design, Web Design and Development. Currently building with React and Angular, designing in Figma and learning Blender. Interested in exploring VR, Unity, and creative coding.</p>
         <br/>
         <p>Full portfolio is a WIP.</p>
         <br/>
-        <a href="https://www.are.na/tiffany-bouchard" target="_blank">Are.na</a> <a href="https://cakebagel.tumblr.com/" target="_blank">Tumblr</a> <a href="https://www.goodreads.com/user/show/135943497-tiffany-bouchard" target="_blank">Goodreads</a> <a href="https://letterboxd.com/tiffbouchard/" target="_blank">Letterboxd</a> <a href="https://instagram.com/tiffbouchard" target="_blank">Instagram</a> <a href="https://github.com/tiffbouchard" target="_blank">Github</a> <a href="https://drive.google.com/file/d/1NQRMw9t1lKef9hK86MgaM6FerFGTvT5n/view" target="_blank">CV</a>
+        <a href="https://www.are.na/tiffany-bouchard" target="_blank">Are.na</a> <a href="https://cakebagel.tumblr.com/" target="_blank">Tumblr</a><a href="https://instagram.com/tiffbouchard" target="_blank">Instagram</a> <a href="https://github.com/tiffbouchard" target="_blank">Github</a> <a href="https://drive.google.com/file/d/1NQRMw9t1lKef9hK86MgaM6FerFGTvT5n/view" target="_blank">CV</a><a href="mailto:tiffnbouchard@gmail.com">Contact</a>
       </div>
     </div>
   );

@@ -5,6 +5,7 @@ module.exports = {
       "description",
   },
   plugins: [
+    "react-animated-cursor",
     "gatsby-plugin-react-helmet",
     {
       resolve: "gatsby-plugin-sass",
